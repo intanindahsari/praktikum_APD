@@ -187,6 +187,8 @@ while True:
                 break
             print("login gagal")
             break
+else:
+    print("gagal login")
 
 
 
